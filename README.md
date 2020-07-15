@@ -9,3 +9,5 @@ python3 -m http.server 4000
 ```
 
 Then, in this case, you have to visit [http://localhost:4000](http://localhost:4000)
+
+<img alt="Preview" src="img/preview.png" width="420" height="219">
